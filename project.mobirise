@@ -679,7 +679,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13336.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13337.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpeg",
                 "alt": "",
                 "title": "",
